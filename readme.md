@@ -24,7 +24,7 @@ This project is created using:
 
 This project is hosted on Netlify.
 
-[Netlify](https://shobhits-live-project-2.netlify.app/)
+[Netlify](https://shobhits-live-project-02.netlify.app/)
 
 #
 
